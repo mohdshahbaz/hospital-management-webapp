@@ -1,4 +1,5 @@
 table {
+    min-width: 850px;
     width: 100%;
   }
 
@@ -11,4 +12,6 @@ td {
   font-size: 1.1em;
 }
 
-
+.scroll {
+  overflow-x: auto;
+}
