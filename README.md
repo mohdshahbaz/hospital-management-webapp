@@ -4,6 +4,8 @@ Hospital Patients Management web app for managing covid patients
 
 Check out live version of Web App deployed over netlify [here](https://hospital-management.netlify.app/)
 
+Check out back end (api) repo [here](https://github.com/mohdshahbaz/hospital-management-api)
+
 
 ## Getting Started
 
